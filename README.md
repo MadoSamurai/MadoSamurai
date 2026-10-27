@@ -1,4 +1,4 @@
-👋 Hi, I'm Maxim Dobrovolsky
+Hi, I'm Maxim Dobrovolsky
 
 Junior Fullstack Developer | React | Node.js  
 
@@ -10,11 +10,11 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 💻Featured Projects  
 
-- [sweet_workshop](https://github.com/Zombonie-archer/sweet_workshop) – A team project for a web application designed to search for and select sweet pastries, built using JavaScript and a REST API (Axios). The project also includes a form for placing orders.
+- [sweet_workshop](https://github.com/Zombonie-archer/sweet_workshop) | [Demo](https://zombonie-archer.github.io/sweet_workshop/) – A team project for a web application designed to search for and select sweet pastries, built using JavaScript and a REST API (Axios). The project also includes a form for placing orders.
 
 
 
-- [NoteHub-App](https://github.com/MadoSamurai/NoteHub-App) – A web application built using TypeScript, Next.js, REST API, TanStack, and Zustand. It allows users to log in, edit their profile, and add, delete, and view notes.
+- [NoteHub-App](https://github.com/MadoSamurai/NoteHub-App) | [Demo](https://note-hub-app-eta.vercel.app/) – A web application built using TypeScript, Next.js, REST API, TanStack, and Zustand. It allows users to log in, edit their profile, and add, delete, and view notes.
 
 
 🗣️ Languages
